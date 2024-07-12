@@ -44,9 +44,7 @@ func backtrack(words []string, usedWords []string, charSet map[rune]bool, start 
 }
 
 func main() {
-	words := []string{
-		"afkpu", "abcde", "fghij", "klmno", "pqrst",
-	}
+	words := []string{"abcde", "fghij", "klmnf", "pqrst", "ghijo", "uvwxy"}
 	result, found := findUniqueStrings(words)
 	if found {
 		fmt.Println("Found strings with 25 unique characters:")

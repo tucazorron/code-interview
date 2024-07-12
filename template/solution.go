@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func solution() int { return 1 }
+func solution() bool { return true }
 
 func main() {
 	fmt.Println(solution())

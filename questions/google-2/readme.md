@@ -10,7 +10,7 @@ the player with a higher ranking always win when playing with someone with a low
 
 their rankings doesnt update while playing the tournament
 
-you have access to some game result of that tournament
+you have access to some game results of that tournament
 
 with the result of the games, can you find the final position of any player in the tournament?
 

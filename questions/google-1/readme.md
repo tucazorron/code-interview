@@ -1,16 +1,24 @@
+# google 1
+
 ## problem
 
-[link]()
+you receive a list of words
 
-collect n words from the input list of strings where those 5 words have unique char between them and themselves
+each word has 5 letters
+
+can you create a group of 5 words where each letter is unique? (25 unique letters)
 
 ## input
 
-list of n strings, each with 5 char long
+list of strings
+
+each string with 5 letters
 
 ## output
 
-list of 5 strings, each one with unique char (25 unique char)
+list of 5 strings
+
+each letter of each string is unique (25 unique char)
 
 ## tests
 
